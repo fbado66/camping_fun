@@ -22,4 +22,7 @@ The data to be saved to the database can be found in the `seeds.rb`. Use the inf
 
 ### Hints / Tips
 
-+ Remember we want to be RESTful. What URL should show info about a particular camper? What URL should show a form to create a signup? What controller actions are associated?  
++ Remember we want to be RESTful. 
+What URL should show info about a particular camper? 
+What URL should show a form to create a signup? 
+lsWhat controller actions are associated?  
