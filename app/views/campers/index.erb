@@ -2,3 +2,7 @@
 
 <%# Display a list all of the campers %>
 
+<% @campers.map do |camper| %>
+   <li> <%= link_to camper.name, camper_path(camper) %></li><br> 
+    <% end %>
+
